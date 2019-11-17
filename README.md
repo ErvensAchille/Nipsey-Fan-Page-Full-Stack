@@ -1,3 +1,6 @@
+The Goal of this was to create a full stack Nipsey Hussle fan page app. It can create replace update and delete. Incorporated user logins as well. 
+
+
 ## Installation
 
 1. Clone repo
